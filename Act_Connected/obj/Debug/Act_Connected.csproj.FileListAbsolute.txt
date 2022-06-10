@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\bin\Debug\Act_Connected.exe.config
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\bin\Debug\Act_Connected.exe
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\bin\Debug\Act_Connected.pdb
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\obj\Debug\Act_Connected.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\obj\Debug\Act_Connected.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\obj\Debug\Act_Connected.exe
+C:\Users\acer\source\repos\Act_Connected\Act_Connected\obj\Debug\Act_Connected.pdb
